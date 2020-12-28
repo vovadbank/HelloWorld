@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022387656797",
+    "project_id": "helloworld-ea475",
+    "storage_bucket": "helloworld-ea475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022387656797:android:7d8d908b46977ca8e315b4",
+        "android_client_info": {
+          "package_name": "test.helloworlod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022387656797-nr5pk0euorkhg892g12ej5jvt6705fgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYcLMGY3udp03cJtg36xf5RQj6TQNZx3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022387656797-nr5pk0euorkhg892g12ej5jvt6705fgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
